@@ -1,0 +1,4 @@
+ProductID	Product-Flight Range (M)	Price
+1043	Quad-20	47.95
+1069	Aspen-25	29.95
+2005	Sunspot-15	21.95
